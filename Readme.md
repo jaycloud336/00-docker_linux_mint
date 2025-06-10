@@ -63,8 +63,8 @@ This project gave me a full-stack understanding of container networking, monitor
 ---
 
 ## 📎 File Structure
-```
-your-project/
+``` 
+project-file-structure/
 ├── docker-compose.yaml # Apache + NGINX
 ├── docker-compose.metrics.yaml # Metrics stack
 ├── nginx.conf # Load balancing config
@@ -81,3 +81,9 @@ your-project/
 - NGINX (reverse proxy)
 - Prometheus (metrics)
 - Grafana (dashboards)
+
+## Future Development - 
+I'll be experimenting with other metric collection methods (httpd metrics) 
+and a few automation modalitits in the future, so be sure to check back in from time to time!
+
+Enjoy!
